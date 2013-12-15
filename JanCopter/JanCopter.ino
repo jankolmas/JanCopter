@@ -1,5 +1,5 @@
 /*
-  JanCopter - Quadcopter firmware
+  JanCopter - Quadcopter firmware for Arduino Mega
   
   Created by Jan Kolmas and Brandon Araki, 15 december 2013
   Based on BlueCopter code by Basel Al-Rudainy, 6 april 2013.
@@ -17,7 +17,7 @@
   
   This library was written for the Arudino Mega 2560. Compatibility with other boards is not guaranteed.
   
-Files in this folder:
+Files in the folder:
 JanCopter.ino:         Global variables, setup() and loop() functions
 Config.h               Preprocessor variables, constants and pin assignments
 MPU6050_DMP.h          Files to get angles and rates from the IMU
